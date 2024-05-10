@@ -1,7 +1,5 @@
 Esta es la historia de Andres Vargas
 
-Aprendiendo a programar desde Git bash y python
+Aprendiendo a programar desde Git bash
 
-Naci en Colombia y vivo en todo el mundo. ESPAÑA Y EUROPA.
-
-Nueva linea 05/10/2024
+Añado una nueva linea para probar el checkout 05/10/2024 11:03
