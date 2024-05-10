@@ -4,3 +4,4 @@ Aprendiendo a programar desde Git bash y python
 
 Naci en Colombia y vivo en todo el mundo. ESPAÑA Y EUROPA.
 
+Nueva linea 05/10/2024
