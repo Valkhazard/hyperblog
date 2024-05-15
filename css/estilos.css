@@ -3,7 +3,7 @@ body
     background: #1e1f24;
     color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -44,19 +44,20 @@ body
     margin: 0 auto;
 }
 
-#container_h1
+#container h1
 {
     font-size: 20px;
 }
 
 #post
 {
+    background: white;
     padding: 1em;
 }
 
 #footer
 {
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5em;
